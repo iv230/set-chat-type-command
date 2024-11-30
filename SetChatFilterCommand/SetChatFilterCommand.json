@@ -1,0 +1,13 @@
+{
+  "Author": "iv230",
+  "Name": "SetChatFilterCommand",
+  "Punchline": "Change your chat filter settings via command",
+  "Description": "Tired of opening your character settings, on the chat tab, and the the log filter window? You can now edit this window via command (handy for macro usage!)",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "plugin",
+    "command",
+    "utility",
+    "macro"
+  ]
+}
